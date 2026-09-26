@@ -1,0 +1,6 @@
+{
+  "name": "PharmaSync - ระบบบริหารจัดการคลังยาและจ่ายยา",
+  "description": "ระบบบริหารจัดการคลังยา บัญชียาหลัก และเคาน์เตอร์จ่ายยาด่วนแบบออฟไลน์สำหรับโรงพยาบาลและคลินิก",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
